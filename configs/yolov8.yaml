@@ -1,0 +1,4 @@
+YOLOV8:
+  # CFG: "./detector/YOLOv8/cfg/yolo_v3.cfg"
+  WEIGHT: "./detector/YOLOv8/weight/yolov8.pt"
+  CLASS_NAMES: "./detector/YOLOv8/cfg/coco.names"

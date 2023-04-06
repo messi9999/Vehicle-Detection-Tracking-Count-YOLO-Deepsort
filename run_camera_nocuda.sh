@@ -1,0 +1,1 @@
+python main.py --camera cam --display

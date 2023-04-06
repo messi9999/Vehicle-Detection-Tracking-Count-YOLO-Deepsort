@@ -1,0 +1,1 @@
+python main.py ./videos/[video name] --display

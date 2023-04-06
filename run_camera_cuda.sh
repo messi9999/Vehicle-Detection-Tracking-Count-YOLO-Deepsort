@@ -1,0 +1,1 @@
+python main.py --camera cam --cpu use_cuda --display
